@@ -1,0 +1,5 @@
+SELECT TOP (20000) [id]
+      ,[userName]
+      ,[password]
+      ,[adminAccess]
+  FROM [TestDB].[dbo].[LoginDetails]
